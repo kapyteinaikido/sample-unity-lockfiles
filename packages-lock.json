@@ -11,7 +11,7 @@
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
-      "depth": 0,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://registry.npmjs.org/"
