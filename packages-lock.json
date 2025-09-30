@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.collab-proxy": {
+    "com.unity.device-simulator.devices": {
       "version": "2.0.1",
       "depth": 0,
       "source": "registry",
